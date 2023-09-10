@@ -24,6 +24,8 @@
 
 ### Influential approaches
 1. __Gestalt__: an organized whole that is perceived感知 as more than the sum of its parts（整体不同于其部件的总和）
-  - started with Wertheimer, who studied sensation感觉 and perception知觉
-  - Gestalt ideas now part of study of __cognitive psychology__
-    - cognitive psychology: filed focussing not only on perception but also on learning, memory, thought, processes, and problem solving
+    - started with Wertheimer, who studied sensation感觉 and perception知觉
+    - Gestalt ideas now part of study of __cognitive psychology__
+      - cognitive psychology: filed focussing not only on perception but also on learning,     memory, thought, processes, and problem solving
+
+![image](https://github.com/wtxd1234/Intro-to-Psychology/assets/41671135/a2e9e38b-34f3-4a12-8c46-01c79b0c154b)
