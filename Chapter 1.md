@@ -54,3 +54,22 @@ modern psychotherapy based on psychoanalysis
 
 ![image](https://github.com/wtxd1234/Intro-to-Psychology/assets/41671135/c95e8c1b-a777-4921-837f-0be7ec015416)
 
+## The Field of Psychology Today
+- ❌single perspective to explain all human behavior and mental processes
+
+### Types of Perspectives
+
+1. __Psychodynamic Perspective__
+   - a modern version of psychoanalysis
+   - more focused on development of a sense of self and discovery of motivations behind a person’s behavior other than sexual motivations​
+   - link between neurobiology and psychodynamic concepts should be explored further​
+
+2. __Behavioral Perspective__
+   - __B.F. Skinner__ developed theory of operant conditioning​操作性条件反射
+     - explains how voluntary自愿 behavior is learned
+     - introduces concept of reinforcement加强
+   - __​Behaviorism__ became a __major force in the twentieth century​__
+
+![image](https://github.com/wtxd1234/Intro-to-Psychology/assets/41671135/fb9494e3-2175-4b12-8739-2fb054c1acaf)
+
+3. __Behavioral Perspective__
