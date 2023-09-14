@@ -57,7 +57,7 @@ modern psychotherapy based on psychoanalysis
 ## The Field of Psychology Today
 - ❌single perspective to explain all human behavior and mental processes
 
-### Types of Perspectives
+### 7 Field of Psychology
 
 1. __Psychodynamic Perspective__
    - a modern version of psychoanalysis
