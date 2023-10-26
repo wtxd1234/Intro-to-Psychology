@@ -72,4 +72,42 @@ modern psychotherapy based on psychoanalysis
 
 ![image](https://github.com/wtxd1234/Intro-to-Psychology/assets/41671135/fb9494e3-2175-4b12-8739-2fb054c1acaf)
 
-3. __Behavioral Perspective__
+3. __Humanistic Perspective__
+   - __“Third force”__ in psychology; reaction to both __psychoanalytic theory and behaviorism__. ​
+   - People have __free will__: the freedom to choose their own destiny​
+     - __Self-actualization__自我实现: achieving one’s full potential or actual self​
+   - Early founders:​
+     - __Abraham Maslow__
+     - __Carl Rogers__
+    
+4. __Cognitive Perspective__
+   - Focuses on __memory, intelligence, perception, thought processes, problem solving, language, and learning​__
+   - One example is Piaget’s _Theory of Cognitive Development​_
+   - Includes cognitive neuroscience: study of the __physical changes in the brain and nervous system during thinking__. ​
+
+​5. __Sociocultural Perspective__
+   - Focuses on the relationship between __social behavior and culture__, combining two areas of study:​
+     - __Social Psychology__: study of groups, social roles, and rules of social actions and relationships​
+     - __Cultural Psychology__: study of cultural norms, values, and expectations ​
+   - Includes cross-cultural research​
+
+​6. __Biopsychological Perspective__
+   - Attributes human and animal behavior to biological events occurring in the body, such as __genetic influences, hormones, and activity of nervous system__
+   ![image](https://github.com/wtxd1234/Intro-to-Psychology/assets/41671135/b33d5a4c-5d24-43cc-af5d-dd6e2e322073)
+     - Photo shows two preserved brains placed adjacent to each other. The brain on the left has normal appearance while the brain on the right looks unhealthy and shriveled.
+    
+7. __Evolutionary Perspective__
+   - Focuses on the biological bases of __universal mental characteristics that all humans share​__
+   - Looks at __how mind works__ and why it works as it does​
+   - Behavior seen as having an __adaptive or survival value​__
+
+### Summary
+| perspective | Major Focus & Concepts |
+| :-- | :-- |
+| Psychodynamic | Development of __sense of self__, motivation for social/interpersonal​ relationships​ |
+| Behavioral | Classical and operant conditioning, concept of reinforcement, focus on​ __observable behavior__ |
+| Humanistic | The ability of the individual to direct and control his or her own life, __free​ will, self-actualization​__ |
+| Cognitive | Perception, memory, intelligence, thought processes, problem solving, language, learning, __the role of the brain and nervous system__​ |
+| Sociocultural | Relationship between social behavior and the contexts of __family, social groups, and culture__ |
+| Biopsychological | Influences of genetics, hormones, and the __activity of the nervous​ system on human and animal behavior__ |
+| Evolutionary | The biological bases for __universal mental characteristics that are​ shared by all humans__ |
